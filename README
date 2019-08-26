@@ -1,0 +1,13 @@
+# Chocolatey Package leagueoflegendseuw
+
+This is a chocolatey package for installing the League of Legends Online Game
+made by Riot Games. I do not own neither source code nor the game. All rights
+reserved by Riot Games.
+
+# Installing
+
+To install this package run "choco install leagueoflegendseuw"
+
+# Bugs
+
+Please report any installation bugs on this github repository.
