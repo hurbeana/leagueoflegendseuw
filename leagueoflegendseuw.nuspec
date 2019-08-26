@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>leagueoflegendseuw</id>
+    <version>1.0.0.0</version>
+    <title>League Of Legends EUW</title>
+    <authors>Riot Games, Inc.</authors>
+    <owners>hurbeana</owners>
+    <licenseUrl>https://euw.leagueoflegends.com/en/legal/termsofuse</licenseUrl>
+    <projectUrl>https://signup.euw.leagueoflegends.com/en/signup/index</projectUrl>
+    <docsUrl>https://euw.leagueoflegends.com/en/game-info/</docsUrl>
+    <iconUrl>https://lolstatic-a.akamaihd.net/riotbar/prod/1.6.91/images/navigation/icon-game-lol.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>League of Legends is a fast-paced, competitive online game that blends the speed and intensity of an RTS with RPG elements. Two teams of powerful champions, each with a unique design and playstyle, battle head-to-head across multiple battlefields and game modes. With an ever-expanding roster of champions, frequent updates and a thriving tournament scene, League of Legends offers endless replayability for players of every skill level. This installer is for the Europe West Region.</description>
+    <summary>EUW (Europe West) Installer for League of Legends from Riot Games.</summary>
+    <copyright>Riot Games, Inc.</copyright>
+    <tags>leagueoflegends euw leagueoflegendseuw lol league riot riotgames</tags>
+  </metadata>
+</package>
