@@ -11,7 +11,7 @@ $packageArgs = @{
 
   softwareName  = 'leagueoflegendsEUW*'
 
-  checksum      = '3BD13850BFD10EE8FA4A83DE3E4AAC386A88053C3EDD4BC4770D77D3DD1D3803'
+  checksum      = 'c36adde03b80f5167ef651507e28af7323c756179aa5accb65a7c5c721d57844'
   checksumType  = 'sha256'
 
   validExitCodes= @(0)
